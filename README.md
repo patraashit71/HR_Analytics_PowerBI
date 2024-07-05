@@ -1,4 +1,4 @@
-HR_Analytics_PowerBI 💼
+# HR_Analytics_PowerBI 💼
 * I have created an HR dataset-based analytics dashboard 🧑‍💼📈.
 * This dashboard focuses on various relations among the features of the dataset and how they contribute to effective analysis 🔍.
 * I have also used DAX to create calculated measures and columns to enhance analytics 📉➕.
